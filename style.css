@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+  font-family: 'Outfit', sans-serif;
+}
+.container-fluid{
+  height: 100vh;
+  background: #0d1a2d;
+}
+.hero{
+  height: 460px;
+  background: #15273f;
+}
+.text-light{
+  font-size: 18px;
+}
+p{
+  color: rgb(193, 193, 193);
+  font-size: 14px;
+}
+svg{
+  margin-top: 2px;
+}
+.footer{
+  margin-top: -15px;
+}
